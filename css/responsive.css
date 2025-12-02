@@ -106,6 +106,10 @@
     .header {
         height: 84px;
     }
+    .carousel-inner,.top{
+        margin-top:50px;
+    }
+
     .carousel-item img {
         min-height: 570px;
     }
